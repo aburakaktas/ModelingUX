@@ -36,3 +36,5 @@ For more info check out this [link](http://contextmapping.com/about/).
 
 **Video Observation**
 Used when words are not enough for example people with autism
+
+$\sum$ project

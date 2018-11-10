@@ -28,7 +28,8 @@ Strategies have in
 >  - Make arrangements on the go - voice & video recordings
 >  - Open ended questions - understanding research in the beginning - to eliminate the assumptions.
 
- ### Notes from other presentations
+### Notes from other presentations
+
 **Context Mapping**
 Originated in Delft
 It is not a method but a framework
@@ -37,4 +38,3 @@ For more info check out this [link](http://contextmapping.com/about/).
 **Video Observation**
 Used when words are not enough for example people with autism
 
-$\sum$ project

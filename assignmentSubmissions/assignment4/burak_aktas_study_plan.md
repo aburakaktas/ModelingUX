@@ -76,6 +76,7 @@ Thank you for participating in this survey!
 ***
 
 ## 4- Post-Diary Interview
-
-UX curve
-
+- UX curve, from the diagnosis up to today, how your life is changed?
+- The reasons of missed doses? What are the bariers that hold you back from adhering to the treatment?
+- The success of the adherence if there are no or small amount of missed doses? What are the techniques, tips you are using to adhere?
+- Aids, apps etc.
